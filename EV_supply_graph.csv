@@ -1,0 +1,241 @@
+Source,Target,Type,Id,Label,Weight,region,is_in_house
+AESC Group,BMW (USA),Directed,13,Battery,1,USA,F
+AESC Group,Renault (Europe),Directed,140,Battery,1,Europe,F
+"Aisin Seiki Co., Ltd., DENSO Corp.",Toyota (Europe),Directed,176,Motors,1,Europe,F
+"Aisin Seiki Co., Ltd., DENSO Corp.",Toyota (USA),Directed,181,Motors,1,USA,F
+"Aisin Seiki Co., Ltd., DENSO Corp.",Volkswagen (USA),Directed,198,Motors,1,USA,F
+Applied Intuition,Porsche,Directed,132,Autonomous Driving,1,Global,F
+Aptiv,Rivian (USA),Directed,149,Motors,1,USA,F
+Argo AI,Volkswagen (USA),Directed,199,Autonomous Driving,1,USA,F
+Aurora Innovation,Volvo (USA),Directed,214,Autonomous Driving,1,USA,F
+"Autoliv, Inc.",Changan (China),Directed,24,Autonomous Driving,1,China,F
+"Autoliv, Inc.",Geely (China),Directed,50,Autonomous Driving,1,China,F
+Automotive Cells Company,Mercedes-Benz (Europe),Directed,103,Battery,1,Europe,F
+Autonomous A2Z,Kia,Directed,84,Autonomous Driving,1,Global,F
+BASF,Porsche (Europe),Directed,127,Battery,1,Europe,F
+Beijing Benz Automotive,Mercedes-Benz (China),Directed,100,Battery,1,China,F
+BluE Nexus Corporation,Toyota (Europe),Directed,177,Motors,1,Europe,F
+BMW,BMW (China),Directed,219,,1,,
+BMW,BMW (Europe),Directed,220,,1,,
+BMW,BMW (USA),Directed,221,,1,,
+BMW Group,BMW (China),Directed,3,Battery,1,China,T
+BMW Group,BMW (Europe),Directed,12,Battery,1,Europe,T
+BMW Group,BMW (USA),Directed,15,Battery,1,USA,T
+"BorgWarner, Inc.",BYD (USA),Directed,22,Battery,1,USA,F
+"BorgWarner, Inc.",Ford (USA),Directed,35,Motors,1,USA,F
+Bosch Group,Changan (China),Directed,25,Motors,1,China,F
+Bosch Group,Rivian (USA),Directed,150,Motors,1,USA,F
+BYD,BYD (China),Directed,18,Motors,3,China,T
+BYD,BYD (Europe),Directed,20,Vehicle Manufacturing,2,Europe,T
+BYD,BYD (South America),Directed,21,Vehicle Manufacturing,2,South America,T
+BYD,BYD (USA),Directed,23,Vehicle Manufacturing,2,USA,T
+BYD,Tesla (China),Directed,157,Battery,1,China,F
+BYD,Toyota (China),Directed,174,Battery,1,China,F
+CALB,Changan (China),Directed,26,Battery,1,China,F
+CALB,GAC Aion (China),Directed,41,Battery,1,China,F
+CALB,NIO (China),Directed,116,Battery,1,China,F
+CATL,BMW (China),Directed,0,Battery,1,China,F
+CATL,BMW (Europe),Directed,4,Battery,1,Europe,F
+CATL,Ford (USA),Directed,36,Battery,1,USA,F
+CATL,Geely (China),Directed,51,Battery,1,China,F
+CATL,Geely,Directed,60,Battery,1,Global,F
+CATL,Hyundai (China),Directed,61,Battery,1,China,F
+CATL,Hyundai (USA),Directed,69,Battery,1,USA,F
+CATL,Kia (China),Directed,81,Battery,1,China,F
+CATL,Kia (USA),Directed,87,Battery,1,USA,F
+CATL,Mercedes-Benz (China),Directed,101,Battery,1,China,F
+CATL,Mercedes-Benz (Europe),Directed,104,Battery,1,Europe,F
+CATL,NIO (China),Directed,117,Battery,1,China,F
+CATL,NIO (Europe),Directed,123,Battery,1,Europe,F
+CATL,Porsche (China),Directed,126,Battery,1,China,F
+CATL,Porsche (Europe),Directed,128,Battery,1,Europe,F
+CATL,Renault (Europe),Directed,141,Battery,1,Europe,F
+CATL,Tesla (China),Directed,158,Battery,1,China,F
+CATL,Tesla (Europe),Directed,162,Battery,1,Europe,F
+CATL,Tesla (USA),Directed,166,Battery,1,USA,F
+CATL,Toyota (China),Directed,175,Battery,1,China,F
+CATL,Toyota (USA),Directed,182,Battery,1,USA,F
+CATL,Volkswagen (China),Directed,187,Battery,1,China,F
+CATL,Volvo (China),Directed,202,Battery,1,China,F
+CATL,Volvo (Europe),Directed,205,Battery,1,Europe,F
+CATL,Volvo (USA),Directed,215,Battery,1,USA,F
+Changan Automobile,Changan (China),Directed,31,Battery,1,China,T
+dcbel,Volvo (Europe),Directed,206,Motors,1,Europe,F
+Dräxlmaier Group,Porsche (Europe),Directed,129,Battery,1,Europe,F
+ECARX Holdings Inc.,GAC Aion (China),Directed,42,Autonomous Driving,1,China,F
+ECARX Holdings Inc.,Geely (China),Directed,52,Autonomous Driving,1,China,F
+Embotech AG,BMW (Europe),Directed,5,Autonomous Driving,1,Europe,F
+EVE Energy,BMW (China),Directed,1,Battery,1,China,F
+EVTECH,NIO (China),Directed,118,Motors,1,China,F
+Farasis Energy,Mercedes-Benz (Europe),Directed,105,Battery,1,Europe,F
+Ford,Ford (Europe),Directed,226,,1,,
+Ford,Ford (USA),Directed,228,,1,,
+Ford Motor Company,Ford,Directed,34,Autonomous Driving,1,Global,T
+Ford Motor Company,Ford (USA),Directed,40,Motors,1,USA,T
+Foretellix,Geely (China),Directed,53,Autonomous Driving,1,China,F
+GAC,GAC Aion (China),Directed,46,Battery,1,China,T
+GAC,Jeep (China),Directed,73,Vehicle Manufacturing,1,China,F
+GAC Aion,GAC Aion (China),Directed,229,,1,,
+GAC Aion,GAC Aion (Europe),Directed,230,,1,,
+Ganfeng Lithium,Changan (China),Directed,27,Battery,1,China,F
+Geely,Geely (China),Directed,231,,1,,
+Geely,Geely (Europe),Directed,232,,1,,
+Geely Group,Geely (China),Directed,55,Battery,1,China,T
+Graphite One,Lucid (USA),Directed,93,Battery,1,USA,F
+Hesai Technology,BMW (Europe),Directed,6,Autonomous Driving,1,Europe,F
+Horizon Robotics,Changan (China),Directed,28,Autonomous Driving,1,China,F
+Horizon Robotics,GAC Aion (China),Directed,43,Autonomous Driving,1,China,F
+Horizon Robotics,Volkswagen (China),Directed,188,Autonomous Driving,1,China,F
+Horse Powertrain,Geely (Europe),Directed,56,Motors,1,Europe,F
+Huawei,Changan (China),Directed,29,Autonomous Driving,1,China,F
+Hyundai,Hyundai (China),Directed,233,,1,,
+Hyundai,Hyundai (Europe),Directed,234,,1,,
+Hyundai,Hyundai (USA),Directed,235,,1,,
+Hyundai Motor Group,Hyundai,Directed,68,Motors,1,Global,T
+Hyundai Motor Group,Hyundai (USA),Directed,72,Battery,1,USA,T
+Hyundai Motor Group,Kia (USA),Directed,90,Battery,1,USA,T
+Infineon Technologies,Hyundai,Directed,66,Power Electronics,1,Global,F
+Infineon Technologies,Kia (Europe),Directed,82,Power Electronics,1,Europe,F
+Infineon Technologies,Kia,Directed,85,Power Electronics,1,Global,F
+Infineon Technologies,Tesla (USA),Directed,167,Power Electronics,1,USA,F
+Jeep,Jeep (China),Directed,236,,1,,
+Jeep,Jeep (Europe),Directed,237,,1,,
+Jeep,Jeep (USA),Directed,238,,1,,
+Kia,Kia (China),Directed,239,,1,,
+Kia,Kia (Europe),Directed,240,,1,,
+Kia,Kia (USA),Directed,241,,1,,
+Kostal,Rivian (USA),Directed,151,Power Electronics,1,USA,F
+LG Energy Solution,Ford (Europe),Directed,32,Battery,1,Europe,F
+LG Energy Solution,Ford (USA),Directed,37,Battery,1,USA,F
+LG Energy Solution,Hyundai (Europe),Directed,63,Battery,1,Europe,F
+LG Energy Solution,Kia (Europe),Directed,83,Battery,1,Europe,F
+LG Energy Solution,Mercedes-Benz (Europe),Directed,106,Battery,1,Europe,F
+LG Energy Solution,Porsche (Europe),Directed,130,Battery,1,Europe,F
+LG Energy Solution,Renault (Europe),Directed,142,Battery,1,Europe,F
+LG Energy Solution,Rivian (USA),Directed,152,Battery,1,USA,F
+LG Energy Solution,Tesla (China),Directed,159,Battery,1,China,F
+LG Energy Solution,Toyota (Europe),Directed,178,Battery,1,Europe,F
+LG Energy Solution,Toyota (USA),Directed,183,Battery,1,USA,F
+LG Energy Solution,Volkswagen (Europe),Directed,191,Battery,1,Europe,F
+LG Energy Solution,Volvo (Europe),Directed,207,Battery,1,Europe,F
+Lucid,Lucid (Europe),Directed,242,,1,,
+Lucid,Lucid (Middle East),Directed,243,,1,,
+Lucid,Lucid (USA),Directed,244,,1,,
+Lucid Group,Lucid (Europe),Directed,91,Vehicle Manufacturing,1,Europe,T
+Lucid Group,Lucid (Middle East),Directed,92,Vehicle Manufacturing,1,Middle East,T
+Lucid Group,Lucid (USA),Directed,99,Battery,1,USA,T
+"Luminar Technologies, Inc.",Mercedes-Benz (USA),Directed,112,Autonomous Driving,1,USA,F
+"Luminar Technologies, Inc.",Porsche (USA),Directed,136,Autonomous Driving,1,USA,F
+"Luminar Technologies, Inc.",Volvo (USA),Directed,216,Autonomous Driving,1,USA,F
+Magna International Inc.,Ford (USA),Directed,38,Motors,1,USA,F
+Magna International Inc.,GAC Aion (Europe),Directed,49,Motors,1,Europe,F
+Mercedes-Benz,Mercedes-Benz (China),Directed,245,,1,,
+Mercedes-Benz,Mercedes-Benz (USA),Directed,246,,1,,
+Mercedes-Benz,Mercedes-Benz (Europe),Directed,247,,1,,
+Mercedes-Benz Group,Mercedes-Benz,Directed,109,Power Electronics,3,Global,T
+Mobileye,Geely (Europe),Directed,57,Autonomous Driving,1,Europe,F
+Mobileye,Porsche,Directed,133,Autonomous Driving,1,Global,F
+Mobileye,Volkswagen (Europe),Directed,192,Autonomous Driving,1,Europe,F
+Mobileye,Volvo,Directed,211,Autonomous Driving,1,Global,F
+Momenta,BMW (China),Directed,2,Autonomous Driving,1,China,F
+Motional,Hyundai,Directed,67,Autonomous Driving,1,Global,F
+Motional,Kia,Directed,86,Autonomous Driving,1,Global,F
+Navitas Semiconductor,Changan (China),Directed,30,Power Electronics,1,China,F
+Nidec Corporation,GAC Aion (China),Directed,44,Power Electronics,2,China,F
+NIO,NIO (China),Directed,248,,1,,
+NIO,NIO (Europe),Directed,249,,1,,
+NIO Group,NIO (China),Directed,122,Motors,1,China,T
+NIO Group,NIO,Directed,124,Power Electronics,2,Global,T
+Northvolt,BMW (Europe),Directed,7,Battery,1,Europe,F
+Northvolt,Volkswagen (Europe),Directed,193,Battery,1,Europe,F
+Novo Energy,Volvo (Europe),Directed,208,Battery,1,Europe,T
+Nuro,Lucid (USA),Directed,94,Autonomous Driving,1,USA,F
+NVIDIA Corporation,BYD (China),Directed,16,Autonomous Driving,1,China,F
+NVIDIA Corporation,Mercedes-Benz (China),Directed,102,Autonomous Driving,1,China,F
+NVIDIA Corporation,Mercedes-Benz (USA),Directed,113,Autonomous Driving,1,USA,F
+NVIDIA Corporation,NIO (China),Directed,119,Autonomous Driving,1,China,F
+NVIDIA Corporation,Porsche (USA),Directed,137,Autonomous Driving,1,USA,F
+onsemi,BMW (Europe),Directed,8,Power Electronics,1,Europe,F
+onsemi,Hyundai (Europe),Directed,64,Power Electronics,1,Europe,F
+onsemi,Mercedes-Benz (Europe),Directed,107,Power Electronics,1,Europe,F
+onsemi,Porsche (Europe),Directed,131,Power Electronics,1,Europe,F
+Outsight,BMW (Europe),Directed,9,Autonomous Driving,1,Europe,F
+"Panasonic Energy Co., Ltd.",Lucid (USA),Directed,95,Battery,1,USA,F
+"Panasonic Energy Co., Ltd.",Tesla (USA),Directed,168,Battery,1,USA,F
+Porsche,Porsche (China),Directed,250,,1,,
+Porsche,Porsche (USA),Directed,251,,1,,
+Porsche,Porsche (Europe),Directed,252,,1,,
+Porsche Group,Porsche,Directed,134,Power Electronics,2,Global,T
+Prime Planet Energy & Solutions,Toyota (USA),Directed,184,Battery,1,USA,T
+QuantumScape Corporation,Volkswagen (Europe),Directed,194,Battery,1,Europe,F
+Renault,Renault (Europe),Directed,253,,1,,
+Renault Group,Renault (Europe),Directed,146,Motors,1,Europe,T
+Rivian Automotive,Rivian (USA),Directed,154,Motors,3,USA,T
+Rohm Semiconductor,Lucid (USA),Directed,96,Power Electronics,1,USA,F
+Ruipai Power Technology,GAC Aion (China),Directed,47,Power Electronics,2,China,T
+Samsung SDI,BMW (Europe),Directed,10,Battery,1,Europe,F
+Samsung SDI,Hyundai (Europe),Directed,62,Battery,1,Europe,F
+Samsung SDI,Jeep (Europe),Directed,74,Battery,1,Europe,F
+Samsung SDI,Jeep (USA),Directed,76,Battery,1,USA,F
+Samsung SDI,Rivian (USA),Directed,153,Battery,1,USA,F
+Samsung SDI,Tesla (USA),Directed,169,Autonomous Driving,1,USA,F
+Seyond,NIO (China),Directed,120,Autonomous Driving,1,China,F
+Sila Nanotechnologies,Mercedes-Benz (USA),Directed,114,Battery,1,USA,F
+Sila Nanotechnologies,Porsche (USA),Directed,138,Battery,1,USA,F
+Sila Nanotechnologies,Volvo (USA),Directed,217,Battery,1,USA,F
+SK On,Ford (USA),Directed,39,Battery,1,USA,F
+SK On,Hyundai (USA),Directed,70,Battery,1,USA,F
+SK On,Kia (USA),Directed,88,Battery,1,USA,F
+SK On,Mercedes-Benz (Europe),Directed,108,Battery,1,Europe,F
+SK On,Mercedes-Benz (USA),Directed,115,Battery,1,USA,F
+SK On,Porsche (USA),Directed,139,Battery,1,USA,F
+SK On,Volkswagen (USA),Directed,200,Battery,1,USA,F
+SK On,Volvo (USA),Directed,218,Battery,1,USA,F
+Stellantis,Jeep (Europe),Directed,75,Motors,1,Europe,T
+Stellantis,Jeep (USA),Directed,78,Power Electronics,3,USA,T
+STMicroelectronics,Geely (China),Directed,54,Power Electronics,1,China,F
+STMicroelectronics,Geely (Europe),Directed,58,Power Electronics,1,Europe,F
+STMicroelectronics,Renault (Europe),Directed,143,Power Electronics,1,Europe,F
+"Sumitomo Metal Mining Co., Ltd.",Toyota,Directed,179,Battery,1,Global,F
+SVOLT Energy Technology,BMW (Europe),Directed,11,Battery,1,Europe,F
+Syrah Resources,Lucid (USA),Directed,97,Battery,1,USA,F
+Tesla,Tesla (China),Directed,254,,1,,
+Tesla,Tesla (USA),Directed,255,,1,,
+Tesla,Tesla (Europe),Directed,256,,1,,
+"Tesla, Inc.",Tesla (China),Directed,160,Power Electronics,2,China,T
+"Tesla, Inc.",Tesla (Europe),Directed,163,Power Electronics,3,Europe,T
+"Tesla, Inc.",Tesla (USA),Directed,170,Power Electronics,4,USA,T
+Toyota,Toyota (China),Directed,257,,1,,
+Toyota,Toyota (USA),Directed,258,,1,,
+Toyota,Toyota (Europe),Directed,259,,1,,
+Toyota Motor Manufacturing North Carolina,Toyota (USA),Directed,185,Battery,1,USA,T
+Toyota Research Institute-Advanced Development,Toyota (USA),Directed,186,Autonomous Driving,1,USA,T
+"TSMC, MediaTek",BYD (China),Directed,17,Autonomous Driving,1,China,F
+Umicore,BMW (USA),Directed,14,Battery,1,USA,F
+Verkor,Renault (Europe),Directed,144,Battery,1,Europe,F
+Vitesco Technologies,Hyundai (Europe),Directed,65,Power Electronics,1,Europe,F
+Vitesco Technologies,Kia (USA),Directed,89,Power Electronics,1,USA,F
+Vitesco Technologies,Renault (Europe),Directed,145,Power Electronics,1,Europe,F
+Volkswagen,Volkswagen (China),Directed,260,,1,,
+Volkswagen,Volkswagen (USA),Directed,261,,1,,
+Volkswagen,Volkswagen (Europe),Directed,262,,1,,
+Volkswagen Group Components,Ford (Europe),Directed,33,Vehicle Manufacturing,1,Europe,F
+Volkswagen Group Components,Volkswagen (China),Directed,189,Power Electronics,2,China,T
+Volkswagen Group Components,Volkswagen (Europe),Directed,196,Power Electronics,2,Europe,T
+Volkswagen Group Components,Volkswagen (USA),Directed,201,Battery,1,USA,T
+Volvo,Volvo (Europe),Directed,263,,1,,
+Volvo,Volvo (USA),Directed,264,,1,,
+Volvo,Volvo (China),Directed,265,,1,,
+Volvo Cars,Volvo (China),Directed,203,Power Electronics,2,China,T
+Volvo Cars,Volvo (Europe),Directed,209,Power Electronics,2,Europe,T
+Volvo Cars,Volvo,Directed,212,Motors,1,Global,T
+Waymo,Geely (Europe),Directed,59,Autonomous Driving,1,Europe,F
+Waymo,Hyundai (USA),Directed,71,Autonomous Driving,1,USA,F
+Waymo,Renault,Directed,147,Autonomous Driving,1,Global,F
+WeLion New Energy Technology,NIO (China),Directed,121,Battery,1,China,F
+WeRide,Renault,Directed,148,Autonomous Driving,1,Global,F
+Wolfspeed,Lucid (USA),Directed,98,Power Electronics,1,USA,F
+Wolfspeed,Volkswagen (Europe),Directed,195,Motors,1,Europe,F
+Woven by Toyota,Toyota,Directed,180,Autonomous Driving,1,Global,T
+Zenseact AB,Volvo,Directed,213,Autonomous Driving,1,Global,T
+Zeta Energy,Jeep (USA),Directed,77,Battery,1,USA,F
